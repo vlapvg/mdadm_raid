@@ -11,7 +11,7 @@
 • Создать GPT таблицу, пять разделов и смонтировать их в системе. 
 
 ##   
-***Скрипт для создания рейда [тут](https://github.com/vlapvg/2_raid_mdadm/blob/main/script_raid.sh)***   
+***Скрипт для создания рейда [тут](https://github.com/vlapvg/mdadm_raid/blob/main/script_raid.sh)***   
 ***Ниже шаги выполнения ДЗ и основные команды*** 
 ##
 ## Добавим в виртуальную машину дополнительно диски   
@@ -197,6 +197,6 @@ Cоздаём на этих партициях ФС:
 
 ## Пишем баш скрипт для конфигурации рейда  
 
-Просто обьединяем команды по созданию рейда и mdadm.conf файла в баш скрипт [script_raid.sh](https://github.com/vlapvg/2_raid_mdadm/blob/main/script_raid.sh)
+Просто обьединяем команды по созданию рейда и mdadm.conf файла в баш скрипт [script_raid.sh](https://github.com/vlapvg/mdadm_raid/blob/main/script_raid.sh))
 
 ### Задание выполнено.
