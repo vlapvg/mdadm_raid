@@ -197,6 +197,6 @@ Cоздаём на этих партициях ФС:
 
 ## Пишем баш скрипт для конфигурации рейда  
 
-Просто обьединяем команды по созданию рейда и mdadm.conf файла в баш скрипт [script_raid.sh](https://github.com/vlapvg/mdadm_raid/blob/main/script_raid.sh))
+Просто обьединяем команды по созданию рейда и mdadm.conf файла в баш скрипт [script_raid.sh](https://github.com/vlapvg/mdadm_raid/blob/main/script_raid.sh)
 
 ### Задание выполнено.
